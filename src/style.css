@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Macondo&family=Playfair:ital,opsz,wght@1,5..1200,500&family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+
+@import "tailwindcss";
+
+
+
+
+:root{
+    --primary-font: 'Cinzel', serif;
+    --accent-font: 'Macondo', cursive;
+}
+
+.font-primary{
+    font-family: var(--primary-font)
+}
+.secondary-font{
+    font-family: var(--accent-font);
+}
