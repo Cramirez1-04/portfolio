@@ -42,7 +42,7 @@
       </div>
       <!--card 3-->
       <div class="bg-gray-100 shadow-lg rounded-lg p-6 text-center">
-        <h2 class="secondary-font text-xl font-bold text-primary">LearNova </h2>
+        <h2 class="secondary-font text-xl font-bold text-primary">LearnNova </h2>
         <p class="font-primary text-gray-600 mt-2">AI Powered Study Companion.</p>
 
         <!-- Tech Stack -->
