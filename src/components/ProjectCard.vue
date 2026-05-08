@@ -16,7 +16,7 @@
         </div>
         <!-- GitHub Button -->
         <div class="mt-6">
-          <a href="#" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://github.com/Cramirez1-04/Finiance" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
@@ -34,7 +34,7 @@
         </div>
 
         <div class="mt-6">
-          <a href="#" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://project-5-f7119.web.app" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
@@ -76,7 +76,7 @@
         </div>
         <!-- GitHub Button -->
         <div class="mt-6">
-          <a href="#" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://github.com/Cramirez1-04/Astral-Realms" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
