@@ -3,7 +3,7 @@
     <div class="max-w-4xl mx-auto">
 
       <!-- Title -->
-      <h1 class="secondary-font text-4xl font-bold text-center text-[#fbB335]">Contact Me</h1>
+      <h1 class="secondary-font text-4xl font-bold text-center text-blue-300">Contact Me</h1>
       <p class="text-center text-gray-600 mt-2">
         Feel free to reach out for opportunities!
       </p>
@@ -43,7 +43,7 @@
         <div class="font-primary text-center">
           <button 
             type="submit"
-            class="bg-primary px-6 py-3 rounded-full border-2 border-orange-300 hover:bg-[#fbB335] hover:border-none hover:text-white transition"
+            class="bg-primary px-6 py-3 rounded-full border-2 border-blue-300 hover:bg-blue-300 hover:border-none hover:text-white transition"
           >
            Send Message
           </button>
