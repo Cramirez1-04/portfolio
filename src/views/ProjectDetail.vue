@@ -225,10 +225,11 @@ export default {
           description: 'Character guide website for gaming enthusiasts featuring detailed character profiles and immersive lore.',
           techStack: ['PHP', 'Laravel', 'MySQL', 'Bootstrap', 'TailwindCSS'],
           images: [
-            '/images/astral/1.png',
-            '/images/astral/2.png',
-            '/images/astral/3.png',
-            '/images/astral/4.png'
+            '../images/astral/astral1.png',
+            '../images/astral/astral2.png',
+            '../images/astral/astral3.png',
+            '../images/astral/astral4.png',
+            '../images/astral/astral5.png'
           ],
           features: [
             'Detailed character profiles with stats and abilities',
