@@ -15,14 +15,11 @@
         </div>
 
         <div class="mt-6 flex gap-3 justify-center">
-          <a href="https://github.com/Cramirez1-04/Finiance" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://github.com/Cramirez1-04/Finiance" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-blue-300 hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
-          <router-link to="/project/finiance" class="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#37D5D6] to-[#36096D] text-white rounded-full hover:opacity-90 transition">
-            <i class="bi bi-eye"></i>
-            View Project
-          </router-link>
+          
         </div>
       </div>
 
@@ -38,7 +35,7 @@
         </div>
 
         <div class="mt-6 flex gap-3 justify-center">
-          <a href="https://github.com/Cramirez1-04/Web2project-Vue" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://github.com/Cramirez1-04/Web2project-Vue" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-blue-300 hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
@@ -61,14 +58,11 @@
         </div>
 
         <div class="mt-6 flex gap-3 justify-center">
-          <a href="#" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="#" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-blue-300 hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
-          <router-link to="/project/learnnova" class="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#37D5D6] to-[#36096D] text-white rounded-full hover:opacity-90 transition">
-            <i class="bi bi-eye"></i>
-            View Project
-          </router-link>
+          
         </div>
       </div>
 
@@ -86,11 +80,11 @@
         </div>
 
         <div class="mt-6 flex gap-3 justify-center">
-          <a href="https://github.com/Cramirez1-04/Astral-Realms" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-[#fbB335] hover:text-white transition">
+          <a href="https://github.com/Cramirez1-04/Astral-Realms" class="inline-flex items-center gap-2 px-4 py-2 border border-primary text-primary rounded-full hover:bg-blue-300 hover:text-white transition">
             <i class="bi bi-github"></i>
             GitHub
           </a>
-          <router-link to="/project/astral" class="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-[#37D5D6] to-[#36096D] text-white rounded-full hover:opacity-90 transition">
+          <router-link to="/project/astral" class="inline-flex items-center gap-2 px-4 py-2 bg-linear-to-r from-[#37D5D6] to-[#36096D] text-white rounded-full hover:opacity-90 transition">
             <i class="bi bi-eye"></i>
             View Project
           </router-link>
